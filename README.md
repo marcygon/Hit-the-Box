@@ -1,70 +1,93 @@
-# Getting Started with Create React App
+:uk:
+## Project description: Hit the box
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Hit the box** is a digital imitation of a mixing board with integrated drum sounds. When you click on one of the buttons, different drum sounds will play. The project is still a work in progress, and the next step is to enable sound triggering via keyboard input, in addition to mouse clicks. To get started on your computer, you'll need to clone the repository and then run npm start to enjoy the experience.
 
-## Available Scripts
+<h4 align="center">
+:construction: Project under construction :construction:
+</h4>
 
-In the project directory, you can run:
+## :rocket:Key features of the project:
 
-### `npm start`
+**1. Sound mixing:** The project allows you to simulate mixing by triggering various drum sounds using buttons.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**2. Mouse interaction:** You can click on the buttons to play different drum sounds, creating your unique beats.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**3. Keyboard interaction (Coming soon):**  I am working on adding keyboard support so you can trigger sounds using your keyboard keys.
 
-### `npm test`
+**4. Easy setup:** You can quickly get started by cloning the repository and running npm start.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :hammer:Prerequisites
 
-### `npm run build`
+- Node.js installed on your system.
+- Git for cloning the repository.
+ 
+## 🛠️ Open and run the project
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Once the prerequisites are installed, Clone the repository to your local machine:
+```
+git clone https://github.com/marcygon/hit-the-box.git
+```
+Navigate to the project directory:
+```
+cd hit-the-box
+```
+Install dependencies:
+```
+npm install
+```
+Start the project:
+```
+npm start
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Now you can enjoy creating unique drum mixes with Hit the Box!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+<br><br>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+:es:
+## Descripción del proyecto: Hit the box
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**Hit the box** es una imitación digital de una mesa de mezclas con sonidos de batería integrados. Al hacer clic en uno de los botones, se reproducirán diferentes sonidos de batería. El proyecto aún está en desarrollo, y el próximo paso es habilitar la activación de sonidos mediante la entrada del teclado, además de los clics del ratón. Para comenzar en tu ordenador, deberás clonar el repositorio y luego ejecutar npm start para disfrutar de la experiencia.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<h4 align="center">
+:construction: Proyecto en construcción :construction:
+</h4>
 
-## Learn More
+## :rocket:Características clave del proyecto:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**1. Mezcla de sonidos:** El proyecto te permite simular la mezcla de sonidos al activar varios sonidos de batería utilizando botones.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**2. Interacción con el ratón:** Puedes hacer clic en los botones para reproducir diferentes sonidos de batería, creando tus propios ritmos únicos.
 
-### Code Splitting
+**3. Interacción con el teclado (próximamente):** Estoy trabajando en agregar soporte para el teclado para que puedas activar los sonidos utilizando las teclas de tu teclado.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**4. Configuración sencilla:** Puedes comenzar rápidamente clonando el repositorio y ejecutando npm start.
 
-### Analyzing the Bundle Size
+## :hammer:Requisitos previos
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Node.js instalado en tu sistema.
+- Git para clonar el repositorio.
+ 
+## 🛠️ Abre y ejecuta el proyecto
 
-### Making a Progressive Web App
+Una vez que estén los requisitos instalados, Clona el repositorio en tu máquina local:
+```
+git clone https://github.com/tunombredeusuario/hit-the-box.git
+```
+Navega hasta el directorio del proyecto:
+```
+cd hit-the-box
+```
+Instala las dependencias:
+```
+npm install
+```
+Inicia el proyecto:
+```
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+¡Ahora puedes disfrutar de la creación de mezclas de batería únicas con Hit the Box!
