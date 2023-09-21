@@ -8,11 +8,17 @@ body{
     border-radius: 5%;
     padding: 60px 130px;
 }
-.topBtn{
-    bottom: 30%;
+.row1{
+    top: 3%;
 }
-.bottomBtn{
-    bottom: 5%;
+.row2{
+    top: 27%;
+}
+.row3{
+    bottom: 27%;
+}
+.row4{
+    bottom: 3%;
 }
 .col1{
     left: 7%;
@@ -49,4 +55,28 @@ body{
 }
 #btn8{
     background-color: hotpink;
+}
+#btn9{
+    background-color: lightsalmon;
+}
+#btn10{
+    background-color: yellowgreen;
+}
+#btn11{
+    background-color: slateblue;
+}
+#btn12{
+    background-color: pink;
+}
+#btn13{
+    background-color: salmon;
+}
+#btn14{
+    background-color: olivedrab;
+}
+#btn15{
+    background-color: navy;
+}
+#btn16{
+    background-color: papayawhip;
 }
