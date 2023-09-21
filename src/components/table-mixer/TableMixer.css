@@ -1,39 +1,52 @@
-.button{
+body{
+    background-color: black;
+}
+.btn{
     position: absolute;
-    background-color: pink;
     cursor: pointer;
     border: none;
-    padding: 50px;
+    border-radius: 5%;
+    padding: 60px 130px;
 }
-#button1{
-    top: 7%;
-    left: 3%;
+.topBtn{
+    bottom: 30%;
 }
-#button2{
-    top: 30%;
-    left: 11%;
+.bottomBtn{
+    bottom: 5%;
 }
-#button3{
-    top: 55%;
-    left: 17%;
+.col1{
+    left: 7%;
 }
-#button4{
-    top: 17%;
+.col2{
     left: 29%;
 }
-#button5{
-    top: 17%;
-    right: 30%;
+.col3{
+    right: 29%;
 }
-#button6{
-    top: 7%;
-    right: 4%;
+.col4{
+    right: 7%;
 }
-#button7{
-    top: 30%;
-    right: 11%;
+#btn1{
+    background-color: red;
 }
-#button8{
-    top: 55%;
-    right: 17%;
+#btn2{
+    background-color: yellow;
+}
+#btn3{
+    background-color: aqua;
+}
+#btn4{
+    background-color: plum;
+}
+#btn5{
+    background-color: orange;
+}
+#btn6{
+    background-color: greenyellow;
+}
+#btn7{
+    background-color: powderblue;
+}
+#btn8{
+    background-color: hotpink;
 }

@@ -21,14 +21,14 @@ function tableMixer() {
 
   return (
     <>
-        <button id="button1" className="button" onClick={() => audio1.play()}/>
-        <button id="button2" className="button" onClick={() => audio2.play()}/>
-        <button id="button3" className="button" onClick={() => audio3.play()}/>
-        <button id="button4" className="button" onClick={() => audio4.play()}/>
-        <button id="button5" className="button" onClick={() => audio5.play()}/>
-        <button id="button6" className="button" onClick={() => audio6.play()}/>
-        <button id="button7" className="button" onClick={() => audio7.play()}/>
-        <button id="button8" className="button" onClick={() => audio8.play()}/>
+        <button id="btn1" className="btn topBtn col1" onClick={() => audio1.play()}/>
+        <button id="btn2" className="btn topBtn col2" onClick={() => audio2.play()}/>
+        <button id="btn3" className="btn topBtn col3" onClick={() => audio3.play()}/>
+        <button id="btn4" className="btn topBtn col4" onClick={() => audio4.play()}/>
+        <button id="btn5" className="btn bottomBtn col1" onClick={() => audio5.play()}/>
+        <button id="btn6" className="btn bottomBtn col2" onClick={() => audio6.play()}/>
+        <button id="btn7" className="btn bottomBtn col3" onClick={() => audio7.play()}/>
+        <button id="btn8" className="btn bottomBtn col4" onClick={() => audio8.play()}/>
     </>
   )
 }
