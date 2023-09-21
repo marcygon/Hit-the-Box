@@ -1,0 +1,39 @@
+.button{
+    position: absolute;
+    background-color: pink;
+    cursor: pointer;
+    border: none;
+    padding: 50px;
+}
+#button1{
+    top: 7%;
+    left: 3%;
+}
+#button2{
+    top: 30%;
+    left: 11%;
+}
+#button3{
+    top: 55%;
+    left: 17%;
+}
+#button4{
+    top: 17%;
+    left: 29%;
+}
+#button5{
+    top: 17%;
+    right: 30%;
+}
+#button6{
+    top: 7%;
+    right: 4%;
+}
+#button7{
+    top: 30%;
+    right: 11%;
+}
+#button8{
+    top: 55%;
+    right: 17%;
+}
