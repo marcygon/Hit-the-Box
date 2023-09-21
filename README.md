@@ -75,7 +75,7 @@ Now you can enjoy creating unique drum mixes with Hit the Box!
 
 Una vez que estén los requisitos instalados, Clona el repositorio en tu máquina local:
 ```
-git clone https://github.com/tunombredeusuario/hit-the-box.git
+git clone https://github.com/marcygon/hit-the-box.git
 ```
 Navega hasta el directorio del proyecto:
 ```
